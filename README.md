@@ -6,6 +6,8 @@ Raluca
 Anca va saluta
 Victor
 Adrian
+Karina
+
 
 **Finally nailed it**  
 *Marius*
